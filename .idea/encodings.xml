@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AIOChatRoom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AIOChatRoom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AIOChatRoom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AIODemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AIODemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/AIODemo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BIOChatRoom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/BIOChatRoom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NIOChatRoom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NIOChatRoom/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NIOChatRoom/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NIODemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/NIODemo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocketDemo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/SocketDemo/src/main/java" charset="UTF-8" />
+  </component>
+</project>
